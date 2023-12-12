@@ -1,7 +1,9 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   mode:'jit',
-  content: ["../**/*.{js}"],
+  content: ["../**/*.{js}",
+
+],
   theme: {
     fontFamily:{
       primary:'Raleplay'
